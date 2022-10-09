@@ -9,5 +9,5 @@ I’m currently learning AI and ML technologies based on R and Python and learni
 As a recent adopter of Linux, VSCode, and Obsidian, I am finally engaging with the open-source community. I look forward to participating in those innovative, collaborative, and vibrant communities.   
 
 Feel free to connect with me.
-Professional inquiries: John.Unger@Alliance-Systems.co
-Volunteer, hobby, and instructional questions: John@ccStL.net
+- Professional inquiries: John.Unger@Alliance-Systems.co
+- Volunteer, hobby, and instructional questions: John@ccStL.net
